@@ -396,10 +396,8 @@ How to Find a Restaurant Address You can find restaurant addresses using:
 </body>
 ```
 # OUTPUT:
-![alt text](DISH.png)
-![alt text](CHEF.png)
-![alt text](ABOUT.png)
-
-
+![alt text](jegan/foodapp/templates/foodapp/DISH.png)
+![alt text](jegan/foodapp/templates/foodapp/CHEF.png)
+![alt text](jegan/foodapp/templates/foodapp/ABOUT.png)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
