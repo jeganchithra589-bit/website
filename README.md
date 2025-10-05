@@ -27,6 +27,88 @@ Publish the website in the given URL.
 
 # PROGRAM:
 ```
+Home Page:
+
+<!DOCTYPE html>
+<html>
+    <head>
+<style>
+    body{
+        padding:20px;
+        border-radius:30px;
+        background-color:black;
+    }
+    .container home{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border-radius: 30px;
+        padding:20px;
+        text-align: center;
+        margin: auto;
+        display: block;
+
+    }
+    .container {
+        font-size: medium;
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        margin:auto;
+        float:center;
+        box-shadow: none;
+        width:1300px;
+        height:720px;
+        flex-direction: column;
+        background-color: cornflowerblue;
+    }
+    .container img{
+        border-radius: 30px;
+        padding:20px;
+        width:400px;
+        height:350px;
+        margin:auto;
+
+
+    }
+    .container h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        font-size: larger;
+        text-align: center;
+        font-weight: bold;
+
+
+    }
+    .container h2{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 200;
+        font-size: medium;
+        text-align: center;
+        color:red;
+    }
+    .container p{
+        text-align: center;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+</style>
+</head>
+<body>
+    <div class="contianer home">
+    <div class="container">
+    <h1>LARA RESTAURANT</h1>
+    <h2> <a href="food.html">Menu</a></h2>
+    <h2 ><a href="chef.html">Administation</a></h2>
+    <h2><a href="Screenshot (96).png">Contact Us</a></h2>
+    <img src="Discover the future of dining aesthetics! 🍽️✨….jpeg">
+    <p>**A restaurant is a business that prepares and serves food and drinks to customers for money, offering various types of cuisine and service models, from fast food to fine dining. <br>**Restaurants can be single 
+        establishments or chains and are part of the larger hospitality industry, providing employment for chefs, servers, and managers. 
+       <br>** Customers typically enjoy meals on-site, though many restaurants also offer takeout and delivery services. </p>
+</div>
+</div>
+</body>
+</html>
+
 Dishes:
 
 
