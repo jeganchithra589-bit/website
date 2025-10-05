@@ -396,6 +396,7 @@ How to Find a Restaurant Address You can find restaurant addresses using:
 </body>
 ```
 # OUTPUT:
+![alt text](<jegan/foodapp/templates/foodapp/Screenshot (97).png>)
 ![alt text](jegan/foodapp/templates/foodapp/DISH.png)
 ![alt text](jegan/foodapp/templates/foodapp/CHEF.png)
 ![alt text](jegan/foodapp/templates/foodapp/ABOUT.png)
